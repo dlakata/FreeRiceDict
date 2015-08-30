@@ -7,6 +7,7 @@
     "http://*/*",
     "https://*/*"
   ],
+  "icons": { "128": "img/book.png" },
   "content_scripts": [
     {
       "matches": [
