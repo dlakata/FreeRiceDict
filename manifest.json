@@ -1,6 +1,6 @@
 {
   "name": "FreeRiceDict",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easily see extended definitions for words on FreeRice.com",
   "manifest_version": 2,
   "permissions": [
